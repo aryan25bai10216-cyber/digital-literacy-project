@@ -17,7 +17,6 @@ This repository contains the complete Digital Literacy Portfolio developed as pa
 ## 📁 Repository Structure & Module Summaries
 
 ### [Module 1: Digital Literacy Awareness](./task-1-presentation/)
-*
 * **Deliverable:** An infographic created using Canva.
 * **Focus:** Explaining digital literacy and essential tools to peers.
 
