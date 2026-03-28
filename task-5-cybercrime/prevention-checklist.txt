@@ -1,33 +1,30 @@
 Stay Safe Online: Prevention Checklist
 
--Enable Two-Factor Authentication (2FA): Always add an extra layer of security to your college email and social media accounts using apps like Google Authenticator or SMS codes.
+-Enable Two-Factor Authentication (2FA): Always enable 2FA for your college email and social media accounts by using Google Authenticator or SMS.
 
 
--Use Strong, Unique Passwords: Never use the password "123456" or your own name. Always use a combination of capital and lowercase letters, numbers, and symbols for different accounts.
+-Use Strong, Unique Passwords: Never use the password "123456" or your own name. Always ensure to have a combination of capital and small case letters, numbers, and symbols for different accounts.
 
 
--Verify Links Before Clicking: Always hover over the links in the messages or emails you receive and check the actual URL. Never click on suspicious or shortened URLs sent by unknown individuals.
+-Verify Links Before Clicking: Always hover over the links in the messages or emails you have received and check the actual URL. Never click on the links sent by unknown people.
 
 
--Update Software Regularly: Always keep your operating system and antivirus software updated to protect yourself from the latest hacking techniques employed by cyber criminals.
+-Update Software Regularly: Always keep your operating system and antivirus updated to protect yourself from the latest hacking techniques used by cyber criminals.
 
 
--Be Skeptical of "Urgent" Requests: If the messages or emails you receive try to scare you with threats like "your account will be deleted in 2 hours," then it is a sure shot scam.
+-Be Skeptical of "Urgent" Requests: Always be aware of the messages or emails you have received. If the messages or emails you have received scare you by saying things like "your account will be deleted in 2 hours," then it is a sure shot scam.
 
 
--Review App Permissions: Always check the app permissions on your smartphones and make sure that the apps are not using your camera, microphone, and contact lists in any way.
+-Review App Permissions: Always check the app permissions on your smartphone and ensure that the apps you have installed do not use the camera, microphone, and contact list in any way.
 
 
--Financial Safety - UPI PIN Logic: Never disclose your UPI PIN to receive money. A UPI PIN is required only to send money.
+-Financial Safety - UPI PIN Logic: You should never reveal your UPI PIN for receiving money through UPI. You only need a UPI PIN when you are sending money.
 
-
--Financial Safety - Verify Merchant Names: Before pressing 'Pay' on a UPI app, one needs to re-verify the verified name of the recipient to ensure it is the person or store they wish to make a payment to.
+-Financial Safety - Verify Merchant Names: Before clicking on 'Pay' on a UPI payment application, one has to re-verify the verified name of the recipient.
 
 How to Report Cybercrime in India
- In case you or anyone you know is a victim of digital scams, you can contact these official channels at all times:
-
+In case you or anyone you know is a victim of digital scams, you can get in touch with these official channels at all times:
 
  -National Cyber Crime Reporting Portal: [suspicious link removed] 
-
 
  -National Helpline Number: 1930 (Available 24x7)
