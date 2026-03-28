@@ -1,14 +1,15 @@
-Social Media Do’s and Don’ts for College Students
+### Social Media DO’s and DON’Ts for College Students
 
 DO’s:
-•	Keep Privacy Settings Updated: Regularly check who can see your posts and personal information to maintain digital safety.
-•	Think Before You Post: Consider if your content reflects a professional image that an employer or professor would respect.
-•	Verify Information: Fact-check news or links before sharing them to prevent the spread of misinformation.
-•	Network Professionally: Use platforms like LinkedIn to follow industry leaders and join academic groups related to AI/ML.
-•	Use Strong Passwords: Protect your social accounts with Two-Factor Authentication (2FA) to prevent identity theft.
+•	Keep Privacy Settings Updated: Make sure you have updated your social media settings so you know who can see your information.
+•	Think Before You Post: Make sure you are projecting a professional image.
+•	Verify Information: Make sure you are not spreading false information.
+•	Network Professionally: Use LinkedIn to connect with industry leaders and academic groups related to AI/ML.
+•	Use Strong Passwords: Make sure you have Two-Factor Authentication (2FA) enabled on all your social media accounts.
+
 DON’Ts:
-•	Don't Share Sensitive Info: Never post your registration number, home address, or OTPs on public platforms.
-•	Don't Engage in Cyberbullying: Avoid inflammatory comments, harassment, or sharing unverified rumours about peers.	
-•	Don't Plagiarize Content: Avoid posting others' creative work or code without giving proper credit or citations.
-•	Don't Over-Post During Class: Avoid distracted social media use that interferes with your academic responsibilities.
-•	Don't Use Offensive Language: Avoid using profanity or hate speech that could violate college conduct codes.
+•	Don’t Share Sensitive Info: Make sure you never post your registration number, home address, or OTP on social media.
+•	Don’t Engage in Cyberbullying: Make sure you avoid posting rumors, hate speech, or inflammatory comments on social media.
+•	Don’t Plagiarize Content: Make sure you avoid posting other people’s creative works without proper citations.
+•	Don’t Over-Post During Class: Make sure you avoid getting distracted by social media.
+•	Don’t Use Offensive Language: Make sure you avoid hate speech or profanity, as it could get you into trouble with your college administration.
